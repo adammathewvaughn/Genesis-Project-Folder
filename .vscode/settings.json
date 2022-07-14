@@ -1,0 +1,30 @@
+{ 
+    "C_Cpp.default.includePath": ["${env:MARSDEV}\\sgdk\\SGDK\\inc",
+    "${env:MARSDEV}\\sgdk\\SGDK\\res",
+    "res",
+    "inc"
+],
+"workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#98bc23",
+    "activityBar.activeBorder": "#1e82a1",
+    "activityBar.background": "#98bc23",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#1e82a1",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "editorGroup.border": "#98bc23",
+    "panel.border": "#98bc23",
+    "sash.hoverBorder": "#98bc23",
+    "sideBar.border": "#98bc23",
+    "statusBar.background": "#75911b",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#98bc23",
+    "statusBarItem.remoteBackground": "#75911b",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#75911b",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#75911b99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+},
+"peacock.color": "#75911b"
+}
